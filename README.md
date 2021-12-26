@@ -3,6 +3,12 @@ LibraryBookSearchEngine，link librarys  of all Countries, search all resources 
 图书馆图书搜索引擎,在家链接全球148个国家的公共图书馆，学校图书馆，聚合查找搜索引擎，图书网站相关图书资源
 计划支持全球197个国家和地区。
 
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="/images/LibraryBookSearchEngine.gif" width="750px">
+  </a>
+</p>
+
 开发背景：
 2019年底新冠疫情，基本在长沙岳麓区无法出门开展工作，看书，网上谈生意，找电子书，搜图书，搜云盘，非常麻烦，于是开始
 构思设计一款能搜索图书，又能搜索图书馆的桌面软件，于是开始搜集国内外的图书馆资料，集成国内主流的图书搜索引擎，包括豆瓣评论，
