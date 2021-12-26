@@ -36,8 +36,81 @@ LibraryBookSearchEngine，link librarys  of all Countries, search all resources 
 
 
 
+
 <p align="center">
 ================深度交流================
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/LibraryBookSearchEngine.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================图书馆图书搜索引擎主页================
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/germany.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================德国系列================
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/french.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================法国系列================
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/swish.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================瑞士系列================
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/uk.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================英国系列================
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/canada.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================加拿大系列================
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+    <img src="images/american.png" width="750px">
+  </a>
+</p>
+<p align="center">
+================美国系列================
 </p>
 
 
