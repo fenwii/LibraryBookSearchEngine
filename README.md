@@ -5,7 +5,7 @@ LibraryBookSearchEngine，link librarys  of all Countries, search all resources 
 
 <p align="center">
   <a href="https://github.com/fenwii/LibraryBookSearchEngine">
-    <img src="/images/LibraryBookSearchEngine.gif" width="750px">
+    <img src="images/LibraryBookSearchEngine.gif" width="750px">
   </a>
 </p>
 
