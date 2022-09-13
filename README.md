@@ -1,4 +1,16 @@
 # LibraryBookSearchEngine 图书馆图书搜索引擎
+project stop update notice:Because a incorrect git operation the size oversize 1G byte  and not easy to pull down, so the  LibraryBookSearchEngineV1.0, 图书馆图书搜索引擎V1.0  
+version 1.0 stop to update and change to new projcet LibraryBookSearchEnginePro:
+the  pro project url:
+https://github.com/fenwii/LibraryBookSearchEnginePro
+
+V1.0项目停止维护说明：因误操作，导致git日志超过1个多G，pull下载极其缓慢，2022年9月10日起 LibraryBookSearchEngineV1.0, 图书馆图书搜索引擎V1.0  
+版本将停止维护，项目迁移到LibraryBookSearchEnginePro:
+项目地址url:
+https://github.com/fenwii/LibraryBookSearchEnginePro
+
+对你造成不好的体验，请谅解，我将继续致力于将全球图书馆文化带给每一个爱学习，阅读的朋友。thanks!
+
 LibraryBookSearchEngine，link librarys  of all Countries, search all resources of books. 
 图书馆图书搜索引擎,在家链接全球148个国家的公共图书馆，学校图书馆，聚合查找搜索引擎，图书网站相关图书资源
 计划支持全球197个国家和地区。
