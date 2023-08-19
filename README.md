@@ -1,5 +1,10 @@
-# LibraryBookSearchEngine 图书馆图书搜索引擎
-project stop update notice:Because a incorrect git operation the size oversize 1G byte  and not easy to pull down, so the  LibraryBookSearchEngineV1.0, 图书馆图书搜索引擎V1.0  
+<div align="center">
+  <img width="200" src="https://www.aiappstore.cloud/assets/images/logos/aiclub.png">
+  <h1>LibraryBookSearchEngine 图书馆图书搜索引擎</h1>
+  <p>LibraryBookSearchEngine，link librarys  of all Countries, search all resources of books. 
+图书馆图书搜索引擎,在家链接全球148个国家的公共图书馆，学校图书馆，聚合查找搜索引擎，图书网站相关图书资源
+计划支持全球197个国家和地区。
+  project stop update notice:Because a incorrect git operation the size oversize 1G byte  and not easy to pull down, so the  LibraryBookSearchEngineV1.0, 图书馆图书搜索引擎V1.0  
 version 1.0 stop to update and change to new projcet LibraryBookSearchEnginePro:
 the  pro project url:
 https://github.com/fenwii/LibraryBookSearchEnginePro
@@ -14,6 +19,18 @@ https://github.com/fenwii/LibraryBookSearchEnginePro
 LibraryBookSearchEngine，link librarys  of all Countries, search all resources of books. 
 图书馆图书搜索引擎,在家链接全球148个国家的公共图书馆，学校图书馆，聚合查找搜索引擎，图书网站相关图书资源
 计划支持全球197个国家和地区。
+  </p>
+  <p>
+    <a href="https://github.com/fenwii/LibraryBookSearchEngine/releases"><img src="https://img.shields.io/github/v/release/fenwii/LibraryBookSearchEngine"></a>
+    <a href="https://github.com/fenwii/LibraryBookSearchEngine"><img src="https://img.shields.io/github/downloads/fenwii/LibraryBookSearchEngine/total"></a>
+    <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a"/>
+    <img alt="macOS" src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  </p>
+</div>
+
+
+
 
 <p align="center">
   <a href="https://github.com/fenwii/LibraryBookSearchEngine">
